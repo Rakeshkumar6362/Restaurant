@@ -1,0 +1,38 @@
+input::placeholder{
+    text-transform: uppercase;
+    /* color: rgb(34, 21, 6); */
+    font-style: italic;
+    font-size: small;
+    
+}
+
+section{
+    display: flex;
+    height: 90vh;
+    border: 2px solid white;
+}
+body{
+    background-image: url(./images/butler-993392_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navbar{
+    border: 3px solid white;
+}
+.main-div{
+    
+    border: 5px solid rgb(247, 252, 247);
+    border-radius: 20px;
+    width: 40%;
+    margin: auto;
+    /* margin-right: 0%; */
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    /* align-content: center; */
+    justify-content: center;
+
+}
+h1{
+    /* font-size: larger !important; */
+}
